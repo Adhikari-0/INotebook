@@ -1,12 +1,12 @@
 # INotebook
 
-The above project are created using Nodejs in backend and Reactjs in frontend.
+The above project are created using Nodejs in backend and Reactjs in frontend.<br />
 
 To run the project make sure that you have good internet connection because, bootstrap is used for designing purpose.
 
 First you have to create an accout and then you can store the detail of any person. 
 
-**To Execute Backend Nodejs You have to install some npm package first.**
+**To Execute Backend Nodejs You have to install some npm package first.**<br />
 #Go to the Backand folder by using (cd Backend ) from your current prject folder
 
 **Open terminal and install**
