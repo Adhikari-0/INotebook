@@ -1,6 +1,6 @@
 # INotebook
 
-The above project are created using Nodejs in backend and Reactjs in frontend.<br />
+The above project are created using Nodejs in backend and Reactjs in frontend. To Store your note using (mongoosedb, Nodejs & Reactjs) <br />
 
 To run the project make sure that you have good internet connection because, bootstrap is used for designing purpose.<br />
 
